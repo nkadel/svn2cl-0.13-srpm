@@ -1,4 +1,4 @@
-svn2cl-0.4-srpm
+svn2cl-0.13-srpm
 ===============
 
 SRPM tools for svn2cl, formerly in subversion-[version]-svn2cl
