@@ -17,6 +17,7 @@ Requires:	subversion
 Requires:	libxslt
 # svn2cl has been removed from Subversion tarballs, and the
 # version there was out of date, anyway
+Provides:	subversion-svn2cl
 Obsoletes:	subversion-svn2cl
 
 
